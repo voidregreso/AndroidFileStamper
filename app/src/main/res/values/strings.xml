@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">File Timestamp Editor</string>
+    <string name="file_not_selected_yet">File not selected yet</string>
+</resources>
